@@ -22,7 +22,7 @@ The completed exercise is due on <>.
 
 1. What are your previous experiences with data analytics, R, and Git? Include both formal and informal training.
 
-> Answer: I have no previous expereince with Git, and I don't believe any expereince with data analytics. I have liited R background.
+> Answer: I have no previous expereince with Git, and I don't believe any expereince with data analytics. I have limited R background.
 
 2. Are there any components of the course about which you feel confident?
 
